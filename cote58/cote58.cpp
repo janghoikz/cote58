@@ -40,6 +40,7 @@ string solution(string number, int k) {
 
 int main()
 {
+    //추가내용 !!!!
     string number = "1924";
     int k = 2;
     solution(number,k);
